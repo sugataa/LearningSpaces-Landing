@@ -6,7 +6,7 @@
 
 Run the server `bundle exec middleman`.  
 Build using `bundle exec middleman build`.  
-Build and deploy to S3 using `./bin/deploy-to-s3`.
+~~Build and deploy to S3 using `./bin/deploy-to-s3`.~~
 
 ## Dependencies
 
